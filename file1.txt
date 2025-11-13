@@ -1,9 +1,8 @@
 Git Demo
 added few more lines
-//Added new line
-//added new line AJ
-//Added another one line
-
+Added new line
+Added new line AJ
+Added another one line
 Adding something to modify this File.
-
-//Added a new line
+Added a new line
+AJ At the end added new line
