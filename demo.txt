@@ -9,4 +9,7 @@ class packet;
    constraint c2 {foreach (arr[i])
     arr[i] % 2 == 0;}
 endclass
+
+//AJ-start
+correct this is not a demo file, hence this comment will be removed from further release.
 //AJ-end
