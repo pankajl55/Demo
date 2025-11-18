@@ -1,1 +1,12 @@
- new  file created.
+//AJ-start
+This is not a demo file, need to add the logic to generate even numbers
+class packet;
+   rand int arr[10];
+   
+   constraint c1 {foreach (arr[i])
+    arr[i] inside {[1:100]};}
+
+   constraint c2 {foreach (arr[i])
+    arr[i] % 2 == 0;}
+endclass
+//AJ-end
