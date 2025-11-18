@@ -1,1 +1,3 @@
- new  file created.
+ //AJ-start
+This is a demo file used to demonstrate the git basic flow.
+//AJ-end
